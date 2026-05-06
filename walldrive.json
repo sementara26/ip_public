@@ -1,0 +1,21 @@
+{
+    "baseurl":"https://tmove.xyz",
+    "on_off_ads": "1",
+    "select_ads": "APPLOVIN",
+    "status_app": "1",
+    "link_redirect": "https://play.google.com/store/search?q=pub%3Asemesta.kami&c=apps",
+    "applovin_reward":"0e97152144e52c60",
+    "admob_interid": "",
+    "admob_bannerid": "",
+    "admob_openid": "",
+    "startappid": "",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "",
+    "mopub_inter": "",
+    "unityID":"",
+    "unity_inter":"video",
+    "unity_banner":"bannerid",
+    "interval": 3
+
+}
