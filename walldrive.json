@@ -1,5 +1,5 @@
 {
-    "baseurl":"https://tmove.xyz",
+    "baseurl":"https://app.tmove.xyz/api",
     "on_off_ads": "1",
     "select_ads": "APPLOVIN",
     "status_app": "1",
