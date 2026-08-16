@@ -16,6 +16,7 @@
     "unityID":"",
     "unity_inter":"video",
     "unity_banner":"bannerid",
-    "interval": 3
-
+    "interval": 3,
+    "sub_monthly":"one_month"
+    "sub_weekly":"one_week"
 }
