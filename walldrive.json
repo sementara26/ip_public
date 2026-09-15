@@ -1,6 +1,6 @@
 {
     "baseurl":"https://app.tmove.xyz/api/",
-    "on_off_ads": "1",
+    "ads_enable": true,
     "select_ads": "APPLOVIN",
     "status_app": "1",
     "link_redirect": "https://play.google.com/store/search?q=pub%3Asemesta.kami&c=apps",
